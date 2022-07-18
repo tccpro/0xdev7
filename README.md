@@ -1,15 +1,8 @@
-### Hi there 👋
-
 <p align="center">
-  <a href="https://github.com/0xdev7"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20mobile%20master;7%2B%20years%20of%20coding%20experience;Blockchain%20developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/0xdev7"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%Blockchain%20Developer;10%2B%20years%20of%20developing%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-> Contact Info
-
-<p>Business Mail: seniordeveloper0817@gmail.com</p>
-
 <h2 align="left" id="macropower-tech">💻Tech Stack</h2>
-<h3 align="center">I'm a Senior Full Stack Developer.</h3>
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
   <br><br>
@@ -17,19 +10,18 @@
 
 <hr>
 
-
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)](https://github-profile-trophy.vercel.app/?username=anirudhjak06&column=8)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=0xdev7&column=8)](https://github-profile-trophy.vercel.app/?username=0xdev7&column=8)
 
  <br>
 
+## My Skill Set
 
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
+### Frontend
 
-
-### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -52,9 +44,8 @@
 
 </td><td valign="top" width="33%">
 
+### Backend
 
-
-### Backend  
 <div align="center">   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
@@ -72,18 +63,16 @@
 
 </td><td valign="top" width="33%">
 
+### DevOps
 
-
-### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-</div>  
+</div>
 
+### Database
 
-
-### Database  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
@@ -93,13 +82,14 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
 
-</td></tr></table> 
+</td></tr></table>
 
 <h2 align="left" id="macropower-tech">Github Status</h2>
 
 <br />
 
 > GitHub Profile Status
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=0xdev7&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xdev7&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
@@ -108,7 +98,9 @@
 <br />
 
 > GitHub Activity Graph
+
 <!-- https://github.com/0xdev7/github-readme-activity-graph -->
+
 <a href="https://github.com/0xdev7/0xdev7"><img alt="Senior Dev's activity graph" src="https://activity-graph.herokuapp.com/graph?username=0xdev7&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
 <br />
@@ -118,34 +110,5 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/0xdev7"/></a>
   <a href="https://github.com/0xdev7?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0xdev7?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/0xdev7">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=0xdev7&style=for-the-badge"/></a>
 </p>
 
-<br />
-
-> GitHub Visitors Count
-
-<p align="center">
-    <img 
-      alt="snake animation"
-      title="Snake Animation" 
-      src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Thanks!&fontAlign=80&fontAlignY=40&color=gradient" 
-      width="100%" 
-    />
-</p>
-
-<!--
-**0xdev7/0xdev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
